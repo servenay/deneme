@@ -7,3 +7,5 @@ dorduncu gunceleme</br>
 beşinci güncelleme
 altinci güncelleme
 yedinci güncelleme
+
+ARTIK RAHAT RAHAT KODUMU YAZABİLİRİM
