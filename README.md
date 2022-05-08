@@ -6,3 +6,4 @@ ikinci güncelleme</br>
 dorduncu gunceleme</br>
 beşinci güncelleme
 altinci güncelleme
+yedinci güncelleme
